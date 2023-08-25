@@ -11,7 +11,7 @@ function Calculator() {
       <Button text="7" styling="key1" />
       <Button text="8" styling="key1" />
       <Button text="9" styling="key1" />
-      <Button text="*" styling="key1b" />
+      <Button text="x" styling="key1b" />
       <Button text="4" styling="key1" />
       <Button text="5" styling="key1" />
       <Button text="6" styling="key1" />
