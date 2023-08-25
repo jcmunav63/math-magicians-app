@@ -1,6 +1,6 @@
+import React, { useState } from 'react';
 import Button from './Button';
 import calculate from '../logic/calculate';
-import React, { useState } from 'react';
 
 function Calculator() {
   const [operation, setResult] = useState({
@@ -10,9 +10,21 @@ function Calculator() {
   });
   const [displayValue, setDisplayValue] = useState('');
 
+  const handleButtonClick = (buttonName) => {
+    const newOperation = calculate(operation, buttonName);
+    setResult(newOperation);
+    if (buttonName === 'AC') {
+      setDisplayValue('');
+    } else if (buttonName === '=') {
+      setDisplayValue(newOperation.total || '');
+    } else {
+      setDisplayValue(displayValue + buttonName);
+    }
+  };
+
   return (
     <div className="calc">
-      <input className="keys4" value={displayValue} readOnly>0</input>
+      <input className="keys4" value={displayValue} readOnly />
       <Button text="AC" styling="key1" onClick={handleButtonClick} />
       <Button text="+/-" styling="key1" onClick={handleButtonClick} />
       <Button text="%" styling="key1" onClick={handleButtonClick} />
