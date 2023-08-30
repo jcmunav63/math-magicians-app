@@ -38,9 +38,6 @@ describe('Testing calculate function', () => {
   test('Test = button', () => {
     expect(calculate(testObj1, '=')).toEqual(testObj2);
   })
-  test('Test = button', () => {
-    expect(calculate(testObj1, '=')).toEqual(testObj2);
-  })
   test('Test +/- button', () => {
     expect(calculate(testObj1, '+/-')).toEqual(testObj4);
   })

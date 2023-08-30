@@ -12,7 +12,7 @@ const Button = ({
 
 Button.propTypes = {
   text: PropTypes.string.isRequired,
-  styling: PropTypes.string.isRequired,
+  styling: PropTypes.string,
   onClick: PropTypes.func.isRequired,
 };
 
