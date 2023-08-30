@@ -15,7 +15,7 @@ describe('Testing math operations', () => {
     expect(operate(-5, -10, '-')).toEqual('5');
   });
 
-   // Multiplication testing
+  // Multiplication testing
   test('Multiplication testing', () => {
     expect(operate(20, 30, 'x')).toEqual('600');
     expect(operate(20, -30, 'x')).toEqual('-600');
