@@ -2,6 +2,7 @@
 
 exports[`renders correctly 1`] = `
 <button
+  className="key1b"
   onClick={[Function]}
   type="button"
 >

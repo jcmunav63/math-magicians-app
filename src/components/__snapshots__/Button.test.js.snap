@@ -5,6 +5,6 @@ exports[`renders correctly 1`] = `
   onClick={[Function]}
   type="button"
 >
-  'AC'
+  \`AC\`
 </button>
 `;

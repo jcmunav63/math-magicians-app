@@ -1,6 +1,6 @@
 import operate from './operate';
-describe('Testing math operations', () => {
 
+describe('Testing math operations', () => {
   // Sum testing
   test('Sum testing', () => {
     expect(operate(20, 30, '+')).toEqual('50');
@@ -33,5 +33,4 @@ describe('Testing math operations', () => {
     expect(operate(10, 5, '%')).toEqual('0');
     expect(operate(11, 8, '%')).toEqual('3');
   });
-}
-);
+});
