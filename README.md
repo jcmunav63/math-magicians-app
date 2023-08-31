@@ -24,7 +24,7 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 [About the Project - Math Magicians App: Fetch data from API] <a name="about-project"></a>
+# 📖 [About the Project - Math Magicians App] <a name="about-project"></a>
 
 **to_do_list** It's a simple calculator web app for performing mathematical operations in the web browser.
 
@@ -150,8 +150,7 @@ https://
 
 ## 🔭 Future Features <a name="future-features"></a>
 The Math Magicians App will include the following features:
-- **Complete the site pages**
-- **Deploy this site to Github Pages.**
+- **Some additional features.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

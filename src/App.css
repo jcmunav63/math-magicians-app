@@ -12,6 +12,7 @@ body {
 h3 {
   font-size: 1.6rem;
   padding-left: 20px;
+  font-weight: 600;
 }
 
 p {
@@ -20,13 +21,27 @@ p {
 
 .App {
   width: 40%;
+  height: 75%;
   float: right;
+  margin-left: 130px;
+  margin-top: 15px;
   padding-top: 40px;
-  padding-bottom: 40px;
-  padding-left: 12%;
-  padding-right: 7%;
-  background-color: rgba(87, 76, 252, 0.9);
+  padding-bottom: 20px;
+  padding-left: 8%;
+
+  /* padding-right: 1%; */
+  background-color: #574cfce6;
   border-radius: 10px;
+}
+
+.divhome {
+  background-color: rgba(235, 235, 235, 0.8);
+  border-radius: 12px;
+  margin-top: 40px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 45px;
 }
 
 .sitename {
@@ -44,9 +59,15 @@ p {
 }
 
 .divcalc {
-  width: 90%;
+  /* width: 90%; */
+  display: flex;
+  height: 70vh;
   margin-left: auto;
   margin-right: auto;
+  background-color: rgba(235, 235, 235, 0.8);
+  border-radius: 12px;
+  margin-top: 40px;
+  padding: 15px;
 }
 
 .keys4 {
@@ -122,6 +143,17 @@ p {
   background-color: rgb(252, 140, 4);
 }
 
+.divquotes {
+  /* width: 95%; */
+  height: 60vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(235, 235, 235, 0.8);
+  border-radius: 12px;
+  margin-top: 40px;
+  padding: 15px;
+}
+
 .random {
   min-width: 90%;
   margin-left: auto;
@@ -136,7 +168,9 @@ p {
   padding-right: 15px;
   border-radius: 10px;
   color: rgb(59, 59, 59);
-  background-color: rgba(87, 76, 252, 0.9);
+
+  /* background-color: rgba(87, 76, 252, 0.9); */
   float: left;
-  margin-top: 60px;
+
+  /* margin-top: 60px; */
 }
