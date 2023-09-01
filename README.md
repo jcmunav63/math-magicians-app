@@ -56,7 +56,7 @@
 Link to our deployed project (project is not deployed yet).
 
   Soon to be deployed...
-- https://
+- https://math-magicians-3tqa.onrender.com/
 
 <!-- GETTING STARTED -->
 
@@ -131,7 +131,7 @@ To run tests, run the following command:
 🚀 Project deployment.
 
 Soon to be deployed...
-https://
+- https://math-magicians-3tqa.onrender.com/
 
 
 <!-- AUTHORS -->
