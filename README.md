@@ -21,7 +21,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [🚀 Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -59,10 +59,10 @@
 ### Live Demo <a name="live-demo"></a>
 
 🚀 Live Demo
-Link to our deployed project (project is not deployed yet).
 
-  Soon to be deployed...
-- https://math-magicians-3tqa.onrender.com/
+This project has been deployed to Render...
+
+- [https://math-magicians-3tqa.onrender.com/](https://math-magicians-3tqa.onrender.com/)
 
 <!-- GETTING STARTED -->
 
@@ -136,8 +136,9 @@ To run tests, run the following command:
 
 🚀 Project deployment.
 
-Soon to be deployed...
-- https://math-magicians-3tqa.onrender.com/
+This project has been deployed to Render...
+
+- [https://math-magicians-3tqa.onrender.com/](https://math-magicians-3tqa.onrender.com/)
 
 
 <!-- AUTHORS -->
