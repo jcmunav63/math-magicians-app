@@ -1,5 +1,11 @@
 # Math Magicians App
 
+<div align="center">
+    <img src="/logo_jcm_md.png" alt="main-logo" width="500"  height="auto" />
+  <br/>
+  <h3><b>Math Magicians App - React - Module 3 Project</b></h3>
+</div>
+
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
